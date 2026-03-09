@@ -1,0 +1,5 @@
+{
+  "name": "AstroBlog SaaS Landing",
+  "description": "Landing page for a SaaS platform that creates Astro-based blogs with custom domains and themes.",
+  "requestFramePermissions": []
+}
